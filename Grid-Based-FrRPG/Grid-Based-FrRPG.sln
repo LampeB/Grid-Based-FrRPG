@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMcpBridge.Editor", "UnityMcpBridge.Editor.csproj", "{9CE115A0-1E57-A121-B884-70793487D62B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityMcpBridge.Runtime", "UnityMcpBridge.Runtime.csproj", "{73D42299-0B67-7D8A-797C-C6E12A838701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CE115A0-1E57-A121-B884-70793487D62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CE115A0-1E57-A121-B884-70793487D62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CE115A0-1E57-A121-B884-70793487D62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CE115A0-1E57-A121-B884-70793487D62B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73D42299-0B67-7D8A-797C-C6E12A838701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73D42299-0B67-7D8A-797C-C6E12A838701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73D42299-0B67-7D8A-797C-C6E12A838701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73D42299-0B67-7D8A-797C-C6E12A838701}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projets\\Grid-Based-FrRPG\\Grid-Based-FrRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}|Assembly-CSharp.csproj|c:\\projets\\grid-based-frrpg\\grid-based-frrpg\\assets\\artintegrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832DD0DE-6CB3-D437-448B-DE01AECD5F6B}|Assembly-CSharp.csproj|solutionrelative:assets\\artintegrationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CE115A0-1E57-A121-B884-70793487D62B}|UnityMcpBridge.Editor.csproj|c:\\projets\\unity-mcp\\unity-mcp-master\\unitymcpbridge\\editor\\unitymcpbridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtIntegrationSystem.cs",
+              "DocumentMoniker": "C:\\Projets\\Grid-Based-FrRPG\\Grid-Based-FrRPG\\Assets\\ArtIntegrationSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\ArtIntegrationSystem.cs",
+              "ToolTip": "C:\\Projets\\Grid-Based-FrRPG\\Grid-Based-FrRPG\\Assets\\ArtIntegrationSystem.cs",
+              "RelativeToolTip": "Assets\\ArtIntegrationSystem.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAgwF0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:03:17.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnityMcpBridge.cs",
+              "DocumentMoniker": "C:\\Projets\\unity-mcp\\unity-mcp-master\\UnityMcpBridge\\Editor\\UnityMcpBridge.cs",
+              "RelativeDocumentMoniker": "..\\..\\unity-mcp\\unity-mcp-master\\UnityMcpBridge\\Editor\\UnityMcpBridge.cs",
+              "ToolTip": "C:\\Projets\\unity-mcp\\unity-mcp-master\\UnityMcpBridge\\Editor\\UnityMcpBridge.cs",
+              "RelativeToolTip": "..\\..\\unity-mcp\\unity-mcp-master\\UnityMcpBridge\\Editor\\UnityMcpBridge.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwOgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T19:32:04.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
